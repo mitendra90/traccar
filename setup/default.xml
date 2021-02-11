@@ -17,7 +17,7 @@
     <entry key='geocoder.type'>google</entry>
 
     <entry key='logger.level'>info</entry>
-    <entry key='logger.file'>traccar-server/setup/logs/tracker-server.log</entry>
+    <entry key='logger.file'>traccar-server/logs/tracker-server.log</entry>
     <entry key='logger.rotate'>true</entry>
 
     <entry key='filter.enable'>true</entry>
